@@ -1,3 +1,4 @@
+HEAD
 # 🚀 Startup Profit Predictor (R Shiny)
 
 An interactive **Startup Profit Prediction and Analysis Dashboard** built using **R Shiny**.  
@@ -96,3 +97,5 @@ install.packages(c(
 "reshape2",
 "factoextra"
 ))
+# ProfitForecastR
+An interactive R dashboard for startup profit analysis and prediction using data visualization, regression modeling, and clustering techniques.
